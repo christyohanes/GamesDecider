@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Games Decider</string>
+    <string name="game_title">game_title</string>
+    <string name="game_genre">game_genre</string>
+    <string name="see_details">See Game Details</string>
+    <string name="about">Nama saya Johannes Christian, saya adalah seorang mahasiswa yang sedang aktif dalam perkuliahan pada jurusan informatika. Untuk menunjang pengetahuan saya mengenai mobile developing khususnya android, saya mengikuti event baparekraf developer day. Jujur saya sangat senang dengan pembelajaran di dicoding yang menurut saya sangat detail dalam memberikan penjelasan. Terima kasih Dicoding.</string>
+    <string name="about_me">About me</string>
+    <string name="best_game_in_2020">Best Game in 2020</string>
+    <string name="powered_by_johannes_christian">Powered by Johannes Christian</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="genre">Genre</string>
+    <string name="developer">Developer</string>
+</resources>
